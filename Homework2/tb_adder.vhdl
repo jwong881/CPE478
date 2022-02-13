@@ -1,4 +1,4 @@
-
+--https://vhdlguru.blogspot.com/2010/03/how-to-write-testbench.html
 library ieee;
 use ieee.std_logic_1164.all;
 use ieee.numeric_std.all;

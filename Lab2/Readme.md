@@ -1,4 +1,4 @@
-## Lab 2: Four Digit Hex Counter
+## Lab 2: Four Digit Hex Counter (Part 1)
 - Build a four-digit (16-bit) counter to display its value on 7-segment displays 
 - The counter module generates a 16-bit count value using bits 23 to 38 of the 39-bit binary counter at a frequency of 100 MHz / 223 ≈ 12 Hz with a complete cycle taking approximately 164 / 12 ≈ 5461 seconds or 91 minutes
 - The binary counter bits 17 and 18 generate a 0 to 3 count sequence at a frequency of 100 MHz / 217 ≈ 763 Hz
